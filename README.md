@@ -12,10 +12,7 @@ Dynamic Difficulty: Tom speeds up after each successful cross.
 Score Tracking: Your score is displayed and updates as you play.
 Game Over: The game ends if Tom catches Jerry.
 Setup
-Clone this repository to your local machine:
+Clone this repository to your local machine:git clone https://github.com/yourusername/tom-and-jerry-game.git
+Navigate to the project directory:cd tom-and-jerry-game
 
-git clone https://github.com/yourusername/tom-and-jerry-game.git
-Navigate to the project directory:
-
-cd tom-and-jerry-game
 Open the index.html file in your web browser to start the game.
